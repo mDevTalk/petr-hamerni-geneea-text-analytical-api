@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeneeaDroid</string>
+
+    <string name="action_analyze">Analyze</string>
+    <string name="analyze_hint">Enter text to be analyzed</string>
+    <string name="analysis_language">Used language:</string>
+    <string name="error_text_required">The text is required</string>
+    <string name="error_analysis_fail">the analysis has failed</string>
+    <string name="results_entities">Found entities:</string>
+    <string name="results_sentiment">Sentiment:</string>
+
+    <!-- values for the REST API -->
+    <string name="rest_api_host">https://api.geneea.com/</string>
+    <string name="authorization">user_key -YOUR-USER-KEY-</string>
+
+    <string-array name="languages">
+        <item>en</item>
+        <item>cs</item>
+    </string-array>
+</resources>
